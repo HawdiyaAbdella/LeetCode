@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0066-plus-one) |
 | [0777-toeplitz-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0777-toeplitz-matrix) |
 ## Hash Table
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Linked List
 |  |
 | ------- |
@@ -41,4 +43,8 @@
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2491-smallest-even-multiple) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
