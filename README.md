@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0066-plus-one) |
+| [0777-toeplitz-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0777-toeplitz-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0141-linked-list-cycle) |
+## Matrix
+|  |
+| ------- |
+| [0777-toeplitz-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0777-toeplitz-matrix) |
 <!---LeetCode Topics End-->
