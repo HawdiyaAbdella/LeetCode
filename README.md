@@ -29,6 +29,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1797-goal-parser-interpretation](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1797-goal-parser-interpretation) |
 ## Linked List
 |  |
 | ------- |
