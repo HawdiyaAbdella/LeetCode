@@ -30,6 +30,7 @@
 | [0066-plus-one](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0066-plus-one) |
 | [0342-power-of-four](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0342-power-of-four) |
 | [1018-largest-perimeter-triangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1448-maximum-69-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1448-maximum-69-number) |
 | [2491-smallest-even-multiple](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1448-maximum-69-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
 |  |
 | ------- |
