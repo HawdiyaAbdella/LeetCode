@@ -43,6 +43,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1797-goal-parser-interpretation](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Linked List
 |  |
 | ------- |
