@@ -20,6 +20,7 @@
 | [0001-two-sum](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0500-keyboard-row](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0500-keyboard-row) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 ## Math
@@ -51,10 +52,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0344-reverse-string) |
 ## Matrix
 |  |
