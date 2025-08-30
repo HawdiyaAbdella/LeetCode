@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0169-majority-element) |
 | [0500-keyboard-row](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0500-keyboard-row) |
 | [0777-toeplitz-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -21,6 +22,7 @@
 | [0013-roman-to-integer](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0169-majority-element) |
 | [0500-keyboard-row](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0500-keyboard-row) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 ## Math
@@ -76,6 +78,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0169-majority-element) |
 | [1018-largest-perimeter-triangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Simulation
@@ -125,4 +128,12 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
