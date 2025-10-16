@@ -149,5 +149,10 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0792-binary-search) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
