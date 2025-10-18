@@ -63,6 +63,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0206-reverse-linked-list](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
