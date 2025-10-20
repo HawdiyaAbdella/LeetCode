@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0016-3sum-closest) |
 | [0066-plus-one](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -67,6 +68,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -88,6 +90,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0169-majority-element) |
 | [1018-largest-perimeter-triangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1018-largest-perimeter-triangle) |
