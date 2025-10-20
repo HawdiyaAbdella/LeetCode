@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -163,6 +164,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0792-binary-search) |
