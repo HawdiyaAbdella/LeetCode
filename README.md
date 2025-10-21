@@ -38,6 +38,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -117,6 +118,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
