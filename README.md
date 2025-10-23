@@ -53,6 +53,7 @@
 | [2556-convert-the-temperature](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2812-find-the-maximum-achievable-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1797-goal-parser-interpretation](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -116,6 +119,7 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2058-concatenation-of-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -196,4 +200,8 @@
 |  |
 | ------- |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
