@@ -48,6 +48,7 @@
 | [0070-climbing-stairs](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0292-nim-game](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0342-power-of-four) |
 | [1018-largest-perimeter-triangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1448-maximum-69-number) |
@@ -214,4 +215,12 @@
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
