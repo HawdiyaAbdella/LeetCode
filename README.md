@@ -34,6 +34,7 @@
 | [0141-linked-list-cycle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0169-majority-element) |
+| [0290-word-pattern](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0500-keyboard-row) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -66,6 +67,7 @@
 | [0022-generate-parentheses](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0290-word-pattern](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0500-keyboard-row) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
