@@ -22,6 +22,7 @@
 | [0792-binary-search](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0792-binary-search) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1018-largest-perimeter-triangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -52,6 +53,7 @@
 | [0292-nim-game](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0342-power-of-four) |
 | [1018-largest-perimeter-triangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1448-maximum-69-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1448-maximum-69-number) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2491-smallest-even-multiple](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -228,4 +230,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
