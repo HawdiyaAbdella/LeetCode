@@ -20,6 +20,7 @@
 | [0500-keyboard-row](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0500-keyboard-row) |
 | [0777-toeplitz-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0792-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1018-largest-perimeter-triangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -101,6 +102,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0344-reverse-string) |
+| [0905-sort-array-by-parity](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0018-4sum](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0169-majority-element) |
+| [0905-sort-array-by-parity](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
