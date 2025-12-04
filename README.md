@@ -87,6 +87,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1797-goal-parser-interpretation](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [2211-count-collisions-on-a-road](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2211-count-collisions-on-a-road](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
 |  |
@@ -179,6 +181,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2211-count-collisions-on-a-road](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 ## Tree
 |  |
 | ------- |
