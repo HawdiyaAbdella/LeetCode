@@ -92,6 +92,7 @@
 | [0500-keyboard-row](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0500-keyboard-row) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1797-goal-parser-interpretation](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2211-count-collisions-on-a-road) |
@@ -160,6 +161,7 @@
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1448-maximum-69-number) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1717-maximum-score-from-removing-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [2211-count-collisions-on-a-road](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 ## Tree
 |  |
