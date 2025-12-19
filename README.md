@@ -148,6 +148,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2092-find-all-people-with-secret](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Simulation
 |  |
 | ------- |
@@ -203,6 +204,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2092-find-all-people-with-secret](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Combinatorics
 |  |
@@ -273,4 +276,12 @@
 |  |
 | ------- |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+## Union Find
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2092-find-all-people-with-secret) |
+## Graph
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
