@@ -23,6 +23,7 @@
 | [0777-toeplitz-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0792-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1018-largest-perimeter-triangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -90,6 +91,7 @@
 | [0290-word-pattern](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0500-keyboard-row) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1717-maximum-score-from-removing-substrings) |
@@ -159,6 +161,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1448-maximum-69-number) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1717-maximum-score-from-removing-substrings) |
