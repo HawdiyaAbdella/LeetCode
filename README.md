@@ -101,6 +101,7 @@
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
 |  |
@@ -278,6 +279,7 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Geometry
 |  |
