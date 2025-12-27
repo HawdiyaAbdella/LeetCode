@@ -32,6 +32,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2402-meeting-rooms-iii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -52,6 +53,7 @@
 | [0500-keyboard-row](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0500-keyboard-row) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2402-meeting-rooms-iii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Math
 |  |
@@ -155,6 +157,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2092-find-all-people-with-secret](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2092-find-all-people-with-secret) |
+| [2402-meeting-rooms-iii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Simulation
@@ -162,6 +165,7 @@
 | ------- |
 | [2058-concatenation-of-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2211-count-collisions-on-a-road) |
+| [2402-meeting-rooms-iii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
 |  |
@@ -298,4 +302,8 @@
 |  |
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2092-find-all-people-with-secret) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
