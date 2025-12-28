@@ -27,6 +27,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1018-largest-perimeter-triangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0792-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Interactive
 |  |
 | ------- |
