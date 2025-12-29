@@ -52,6 +52,7 @@
 | [0169-majority-element](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0500-keyboard-row) |
+| [0756-pyramid-transition-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2402-meeting-rooms-iii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2402-meeting-rooms-iii) |
@@ -96,6 +97,7 @@
 | [0290-word-pattern](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0500-keyboard-row) |
+| [0756-pyramid-transition-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -184,6 +186,7 @@
 | [0029-divide-two-integers](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Recursion
 |  |
@@ -259,6 +262,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0022-generate-parentheses) |
+| [0756-pyramid-transition-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Breadth-First Search
 |  |
