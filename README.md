@@ -32,6 +32,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2058-concatenation-of-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2402-meeting-rooms-iii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2402-meeting-rooms-iii) |
@@ -141,6 +142,7 @@
 | [0777-toeplitz-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Number Theory
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
 |  |
@@ -257,6 +260,7 @@
 | [0278-first-bad-version](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0792-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Interactive
 |  |
 | ------- |
@@ -271,6 +275,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Combinatorics
@@ -308,6 +313,7 @@
 ## Union Find
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Graph
 |  |
