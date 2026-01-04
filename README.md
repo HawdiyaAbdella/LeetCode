@@ -30,6 +30,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1390-four-divisors) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -77,6 +78,7 @@
 | [0840-magic-squares-in-grid](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1018-largest-perimeter-triangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1390-four-divisors](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1448-maximum-69-number) |
 | [1925-count-square-sum-triples](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
