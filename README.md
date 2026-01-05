@@ -35,6 +35,7 @@
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2058-concatenation-of-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2402-meeting-rooms-iii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2402-meeting-rooms-iii) |
@@ -147,6 +148,7 @@
 | [0840-magic-squares-in-grid](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1975-maximum-matrix-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1448-maximum-69-number) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1975-maximum-matrix-sum](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Bit Manipulation
