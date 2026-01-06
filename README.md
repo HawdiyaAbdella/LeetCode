@@ -234,12 +234,14 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
@@ -247,6 +249,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Divide and Conquer
 |  |
@@ -283,6 +286,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
