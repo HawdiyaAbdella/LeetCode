@@ -32,6 +32,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1390-four-divisors) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -215,6 +216,7 @@
 | [0022-generate-parentheses](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0070-climbing-stairs) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
