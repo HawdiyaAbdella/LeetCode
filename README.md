@@ -60,6 +60,7 @@
 | [0500-keyboard-row](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0500-keyboard-row) |
 | [0756-pyramid-transition-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -236,6 +237,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -244,6 +246,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -253,6 +256,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -291,6 +295,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2092-find-all-people-with-secret) |
