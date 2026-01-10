@@ -108,6 +108,7 @@
 | [0290-word-pattern](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0500-keyboard-row) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0990-verifying-an-alien-dictionary](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -216,6 +217,7 @@
 | [0010-regular-expression-matching](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0070-climbing-stairs) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
