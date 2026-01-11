@@ -15,6 +15,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0169-majority-element) |
@@ -147,6 +148,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0777-toeplitz-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -217,6 +219,7 @@
 | [0010-regular-expression-matching](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -230,6 +233,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1717-maximum-score-from-removing-substrings) |
@@ -347,4 +351,8 @@
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2402-meeting-rooms-iii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
