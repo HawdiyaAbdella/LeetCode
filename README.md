@@ -44,6 +44,7 @@
 | [2402-meeting-rooms-iii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3453-separate-squares-i](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3453-separate-squares-i) |
@@ -97,6 +98,7 @@
 | [2556-convert-the-temperature](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2812-find-the-maximum-achievable-number](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -342,6 +344,7 @@
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3623-count-number-of-trapezoids-i](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Sliding Window
 |  |
