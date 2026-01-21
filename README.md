@@ -47,6 +47,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -214,6 +215,7 @@
 | [0342-power-of-four](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Recursion
 |  |
 | ------- |
