@@ -45,6 +45,7 @@
 | [2402-meeting-rooms-iii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -130,6 +131,7 @@
 | [2211-count-collisions-on-a-road](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
 |  |
@@ -175,6 +177,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HawdiyaAbdella/LeetCode/tree/master/0014-longest-common-prefix) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -239,6 +242,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HawdiyaAbdella/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Memoization
@@ -382,4 +386,12 @@
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3454-separate-squares-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
