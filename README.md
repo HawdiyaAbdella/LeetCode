@@ -56,6 +56,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3623-count-number-of-trapezoids-i](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3637-trionic-array-i](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
