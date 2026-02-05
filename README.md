@@ -51,6 +51,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3379-transformed-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -206,6 +207,7 @@
 | [2058-concatenation-of-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2402-meeting-rooms-iii](https://github.com/HawdiyaAbdella/LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [3379-transformed-array](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3379-transformed-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HawdiyaAbdella/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
 |  |
